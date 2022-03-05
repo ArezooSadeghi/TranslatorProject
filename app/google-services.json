@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3116869394",
+    "project_id": "siptranslatorproject-d6204",
+    "storage_bucket": "siptranslatorproject-d6204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3116869394:android:faa56b5993e09810a6b5cb",
+        "android_client_info": {
+          "package_name": "com.example.siptranslatorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3116869394-a0aadtvt4015j19ru1sjeobfq6kpn519.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_W0AXAYVQ0EZoVs7W92rzvMrdIIhuzTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3116869394-a0aadtvt4015j19ru1sjeobfq6kpn519.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
